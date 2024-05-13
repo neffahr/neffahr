@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm João Neffa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome..;++;Self-taught+Front-End+Developer;System+Development+Student;CS:GO+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome..;++;Computer+Engineering+Student;Systems+Development+Technician;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
 </p>
 
 
@@ -17,11 +17,12 @@
 
 <br>
 
-- 17y :brazil:
-- Student at COLTEC - UFMG
+- 18y :brazil:
+- Computer Engineering student at PUC MINAS
+- Systems Development technician 
 - A passionate FullStack developer
-- Playing CS:GO at spare time
-- Currently learning Node.js
+- Playing CS 2 at spare time
+- Currently learning Robotics
 
 <br><br>
 
@@ -38,6 +39,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>   
     
@@ -47,6 +49,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <br>
 
