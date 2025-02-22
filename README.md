@@ -17,12 +17,12 @@
 
 <br>
 
-- 18y :brazil:
+- 19y :brazil:
 - Computer Engineering student at PUC MINAS
 - Systems Development technician 
 - A passionate FullStack developer
 - Playing CS 2 at spare time
-- Currently learning Robotics
+- Currently learning Robotics and IoT systems
 
 <br><br>
 
