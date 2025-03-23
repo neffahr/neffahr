@@ -20,9 +20,10 @@
 - 19y :brazil:
 - Computer Engineering student at PUC MINAS
 - Systems Development technician 
-- A passionate FullStack developer
+- A passionate Backend developer
 - Playing CS 2 at spare time
-- Currently learning Robotics and IoT systems
+- Currently learning AI and IoT systems
+- Researching Biorobotics in prothesis aplicattions
 
 <br><br>
 
