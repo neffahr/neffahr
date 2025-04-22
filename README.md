@@ -21,7 +21,7 @@
 - A passionate Backend developer
 - Playing CS 2 at spare time
 - Currently learning AI and IoT systems
-- Researching Biorobotics in prothesis aplicattions
+- Researching Federated Machine Learning
 
 <br>
 
