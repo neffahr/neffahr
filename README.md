@@ -88,31 +88,21 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="www.linkedin.com/in/joão-pedro-neffa-b9aa10265" target="_blank">
+<a href="www.linkedin.com/in/joao-neffa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  João Neffa-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="https://instagram.com/joao_neffa" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  @joao_neffa-%2300acee.svg?color=d62976&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:jpsousa837@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jpsousa837@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
 </div>
 
 <br>
