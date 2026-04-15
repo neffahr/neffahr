@@ -88,7 +88,7 @@
 <br>
 <div align='left'>
 
-<a href="www.linkedin.com/in/joao-neffa" target="_blank">
+<a href="https://www.linkedin.com/in/joao-neffa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  João Neffa-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
