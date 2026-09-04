@@ -81,6 +81,13 @@
   <img alt="GitHub activity summary" src="./profile/signal-field-wide-light.svg" width="640">
 </picture>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg">
+  <img src="./profile/language-composition-wide-light.svg" width="640">
+</picture>
+
 </div>
 <br>
 
