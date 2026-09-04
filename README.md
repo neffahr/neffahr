@@ -76,7 +76,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neffahr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img alt="GitHub activity summary" src="./profile/signal-field-wide-light.svg" width="640">
+</picture>
+
 </div>
 <br>
 
